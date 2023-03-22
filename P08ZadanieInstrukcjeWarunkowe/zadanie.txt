@@ -1,0 +1,14 @@
+Napisz program, który poprosi u¿ytkownika o wprowadzenie równania matematycznego,
+sk³adaj¹cego siê z dwóch liczb jednocyfrowych i jednego operatora arytmetycznego (+, -, *, /).
+
+Przyk³adowe poprawne równania matematyczne:
+
+    5+8
+    2*6
+    9/2
+    1-2
+
+Program powinien obliczyæ wynik wprowadzonego równania i wyœwietliæ go na ekranie.
+
+Ograniczenie programu polega na tym, ¿e dzia³a tylko na liczbach jednocyfrowych.
+
