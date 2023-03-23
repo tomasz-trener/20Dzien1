@@ -11,7 +11,7 @@ namespace P14OdwolanieDoIndeksera
         static void Main(string[] args)
         {
             string s = "ala ma kota";
-
+            //
             string znakPiaty = s.Substring(4, 1);
             char znak = s[4]; // jeden znak mozemy przechowywac w zmiennej typu char 
 

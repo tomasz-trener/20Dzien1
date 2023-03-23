@@ -23,7 +23,7 @@ namespace P08ZadanieInstrukcjeWarunkowe
             double? wynik=null;
             // string s = null;
 
-            if (liczba2 != 0 && op=="/")
+            if (!(liczba2 == 0 && op=="/"))
             {
                 if (op == "+")
                     wynik = liczba1 + liczba2;
